@@ -271,3 +271,5 @@ python scripts/train_yolov8s.py
 > 本科毕业设计 · 2026  
 > 姓名：汪旭  
 > 学校：浙江万里学院
+> 如果有其他问题欢迎咨询：3510976882@qq.com或者wxu140407@gmail.com
+If you have any other questions, please feel free to contact me：3510976882@qq.com or wxu140407@gmail.com
